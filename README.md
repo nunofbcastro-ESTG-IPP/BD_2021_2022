@@ -1,13 +1,13 @@
-<h1 align="center">Practical Work on Base de Dados (Data base)</h1>
+<h1 align="center">Practical Work on Base de Dados (Database) 2021/2022</h1>
 
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2021/2022&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=BD&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=16&color=sucess"/>
-  <a href="https://github.com/nunofbcastro-ESTG-IPP/BD/blob/main/Enunciado.pdf" target="_blank">
+  <a href="/Enunciado.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/nunofbcastro-ESTG-IPP/BD/blob/main/Relatorio_Grupo_13.pdf" target="_blank">
+  <a href="/Relatorio_Grupo_13.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Report-grey?style=for-the-badge"/>
   </a>
 </p>
@@ -28,7 +28,7 @@
 <h3>In docker</h3>
 
 ```
-git clone https://github.com/nunofbcastro-ESTG-IPP/BD.git
+git clone https://github.com/nunofbcastro-ESTG-IPP/BD_2021_2022.git
 cd sqlserver
 docker compose up
 ```
